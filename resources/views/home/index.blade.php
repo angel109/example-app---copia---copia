@@ -3,13 +3,13 @@
 @section('content')
 <div class="row">
 <div class="col-md-6 col-lg-4 mb-2">
-<img src="{{ asset('/img/game.png') }}" class="img-fluid rounded">
+<img src=https://angel2.s3.amazonaws.com/public/img/game.png class="img-fluid rounded">
 </div>
 <div class="col-md-6 col-lg-4 mb-2">
-<img src="{{ asset('/img/safe.png') }}" class="img-fluid rounded">
+<img src=https://angel2.s3.amazonaws.com/public/img/safe.png class="img-fluid rounded">
 </div>
 <div class="col-md-6 col-lg-4 mb-2">
-<img src="{{ asset('/img/submarine.png') }}" class="img-fluid rounded">
+<img src=https://angel2.s3.amazonaws.com/public/img/submarine.png class="img-fluid rounded">
 </div>
 </div>
 @endsection
